@@ -17,7 +17,7 @@ from PIL import Image
 from pycaw.pycaw import AudioUtilities, IAudioEndpointVolume
 import comtypes
 
-API_TOKEN = '6089940073:AAF12Dcaw8Vi_UdFxpCM9oYgIbELECXm_PY'
+API_TOKEN = ''
 
 USER_ID = 5515358231
 
